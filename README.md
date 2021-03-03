@@ -1,4 +1,4 @@
-# Arduino_ST7735_STM
+# ST7735_STM
 Fast STM32 SPI/DMA library for ST7735 1.8" 128x160
 
 YouTube videos:
